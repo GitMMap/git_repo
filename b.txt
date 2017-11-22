@@ -1,4 +1,4 @@
-hello branch merge conflict from master
+hello branch resolve merge conflict
 ntoehutnoehutnohentuhnoehu
 changes
 fetch changes
