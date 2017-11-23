@@ -1,3 +1,4 @@
 git notehunteohuntheontuoethu
 toutneohntuheonthueohucnteohutnh
 git stash changes
+git stash apply
