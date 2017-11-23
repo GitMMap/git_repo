@@ -3,4 +3,5 @@ ntoehutnoehutnohentuhnoehu
 changes
 fetch changes
 git vim fugitive
+merge tool
 
