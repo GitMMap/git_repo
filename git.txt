@@ -1,3 +1,10 @@
 git notehunteohuntheontuoethu
 toutneohntuheonthueohucnteohutnh
 git stash changes
+<<<<<<< Updated upstream
+=======
+git stash apply
+git stash create
+git assume unchanged
+git stash pop apply
+>>>>>>> Stashed changes
