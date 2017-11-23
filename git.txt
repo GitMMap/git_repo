@@ -1,4 +1,4 @@
-git notehunteohuntheontuoethu
+git foo merge
 toutneohntuheonthueohucnteohutnh
 git stash changes
 git stash apply
