@@ -1,0 +1,7 @@
+hello branch merge conflict from branch
+ntoehutnoehutnohentuhnoehu
+changes
+fetch changes
+git vim fugitive
+merge tool
+

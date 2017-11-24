@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+git merge
+toutneohntuheonthueohucnteohutnh
+git stash changes
+git stash apply
+git stash create
+git assume unchanged
+git stash pop apply
+merge tool
+=======
+git foo merge
+toutneohntuheonthueohucnteohutnh
+git stash changes
+git stash apply
+>>>>>>> branch
