@@ -4,4 +4,5 @@ changes
 fetch changes
 git vim fugitive
 merge tool
+git tag describe
 
